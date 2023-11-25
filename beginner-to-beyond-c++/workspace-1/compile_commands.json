@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/architchoudhary/Documents/GitHub/Learning/learning-c++/beginner-to-beyond-c++/workspace-1/project-1/main.cpp",
+  "directory": "/Users/architchoudhary/Documents/GitHub/Learning/learning-c++/beginner-to-beyond-c++/workspace-1/project-1",
+  "command": "/usr/bin/g++ -c /Users/architchoudhary/Documents/GitHub/Learning/learning-c++/beginner-to-beyond-c++/workspace-1/project-1/main.cpp -o /Users/architchoudhary/Documents/GitHub/Learning/learning-c++/beginner-to-beyond-c++/workspace-1/project-1/main.cpp.o -target arm64-apple-darwin23.1.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
