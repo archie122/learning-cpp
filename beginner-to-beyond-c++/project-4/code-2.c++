@@ -16,5 +16,4 @@ int main () {
     std::cout << num3 << std::endl;
     std::cout << middle_initial << std::endl;
     std::cout << "This is a defined variable : " << PI << std::endl;
-
 }
